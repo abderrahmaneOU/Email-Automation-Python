@@ -1,0 +1,18 @@
+# .gitignore for Python projects
+__pycache__/
+*.pyc
+.env
+.env.*
+*.env
+*.log
+*.sqlite3
+.DS_Store
+.vscode/
+.idea/
+*.db
+*.pkl
+*.bak
+.settings/
+.ipynb_checkpoints/
+Thumbs.db
+src/__pycache__/
