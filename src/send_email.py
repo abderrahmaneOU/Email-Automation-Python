@@ -14,7 +14,11 @@ email_receiver = os.getenv('RECIPIENT_EMAIL')
 
 subject = 'check my email'
 body = """
-I've just finished school and I'm looking for money. Work for me or you'll get banned from the hoho company. That's all.
+Hello,
+
+I have recently completed my studies and am seeking job opportunities. Please let me know if you have any suitable positions available.
+
+Thank you.
 """
 
 if not email_sender or not email_password or not email_receiver:
